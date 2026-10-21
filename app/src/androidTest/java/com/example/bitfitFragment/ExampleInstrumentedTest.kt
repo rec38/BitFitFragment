@@ -1,4 +1,4 @@
-package com.example.bitfit
+package com.example.bitfitFragment
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

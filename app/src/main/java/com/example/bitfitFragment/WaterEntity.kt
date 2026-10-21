@@ -1,4 +1,4 @@
-package com.example.bitfit
+package com.example.bitfitFragment
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

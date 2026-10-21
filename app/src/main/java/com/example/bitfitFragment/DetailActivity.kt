@@ -1,4 +1,4 @@
-package com.example.bitfit
+package com.example.bitfitFragment
 
 import android.os.Bundle
 import android.widget.Button

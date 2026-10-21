@@ -1,4 +1,4 @@
-package com.example.bitfit
+package com.example.bitfitFragment
 
 import android.content.Context
 import androidx.room.Database
